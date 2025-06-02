@@ -1,6 +1,6 @@
 /*════════════════════════════════════════════════════════════════════════════
                                                                             
-   ⚡️ 𝙨𝙖𝙨𝙞𝙮𝙖 𝙢𝙙 - 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 8.0 ⚡️                                     
+   ⚡️ manu.md- 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 8.0 ⚡️                                     
                                                                             
      🤖 Multi-functional WhatsApp User Bot by Manul Official               
      🔗 GitHub   : https://github.com/manulofficial7                        
@@ -41,6 +41,6 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'Manu-MD&3c1hjZzY#V69BvOaGpWbPnet8gojL1Jm8U3SHgPpkbUVgY9l81Sc', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
+SESSION_ID: process.env.SESSION_ID || 'Manu-MD&XEdFED4a#gqcZLpfFlCtCh6A_0cBE56DChYOmgqkQn4dGnGM2Zjw', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
 PORT: process.env.PORT || '3000'
 };
