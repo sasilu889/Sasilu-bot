@@ -1,5 +1,5 @@
 {
- "name": "🧚‍♀️sasiya_md-𝗩➑💗",
+ "name": "🧚‍♀️manu_md-𝗩➑💗",
   "description": "Javascript WhatsApp bot made by sasilu Official",
   "logo": "https://manul-official-new-api-site.vercel.app/manu-md",
   "keywords": ["bot"],
@@ -7,9 +7,9 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Manu-MD&3c1hjZzY#V69BvOaGpWbPnet8gojL1Jm8U3SHgPpkbUVgY9l81Sc",
+            "description": "Manu-MD&XEdFED4a#gqcZLpfFlCtCh6A_0cBE56DChYOmgqkQn4dGnGM2Zjw",
             "required": true,
-            "value": "Manu-MD&3c1hjZzY#V69BvOaGpWbPnet8gojL1Jm8U3SHgPpkbUVgY9l81Sc"
+            "value": "Manu-MD&XEdFED4a#gqcZLpfFlCtCh6A_0cBE56DChYOmgqkQn4dGnGM2Zjw"
         }
     },
     "buildpacks": [
