@@ -1,6 +1,6 @@
 /*════════════════════════════════════════════════════════════════════════════
                                                                             
-   ⚡️ 𝗠𝗔𝗡𝗨-𝗠𝗗 𝐁𝐎𝐓 - 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 8.0 ⚡️                                     
+   ⚡️ 𝙨𝙖𝙨𝙞𝙮𝙖 𝙢𝙙 - 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 8.0 ⚡️                                     
                                                                             
      🤖 Multi-functional WhatsApp User Bot by Manul Official               
      🔗 GitHub   : https://github.com/manulofficial7                        
@@ -27,7 +27,7 @@
 */
 /**
  * 🧠 Author        : Manul Official
- * 🌐 Project Name  : MANU-MD
+ * 🌐 Project Name  : 𝙨𝙖𝙨𝙞𝙮𝙖-MD
  * 🛠 Base Script   : By Manul Official
  * 📝 Description   : MANU-MD is a powerful and customizable WhatsApp bot 
  *                    built for fun, automation, and productivity!
