@@ -27,9 +27,9 @@
 */
 /**
  * 🧠 Author        : Manul Official
- * 🌐 Project Name  : MANU-MD
+ * 🌐 Project Name  : sasiya-MD
  * 🛠 Base Script   : By Manul Official
- * 📝 Description   : MANU-MD is a powerful and customizable WhatsApp bot 
+ * 📝 Description   :sasiya-MD is a powerful and customizable WhatsApp bot 
  *                    built for fun, automation, and productivity!
  * 🔒 License       : © 2025 MANU-MD v8.0 - All Rights Reserved
  */
